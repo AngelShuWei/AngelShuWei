@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+### About Me
+### Languages and Coding Technologies
+
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/angelshuwei/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
