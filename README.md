@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=fffff)](https://github.com/angelshuwei/github-readme-stats)
+[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=ffd1dc)](https://github.com/angelshuwei/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
 <!--
