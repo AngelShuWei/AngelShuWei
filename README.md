@@ -23,9 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
-📫 How to reach me:
+📫 Socials:
 <div>
   <i class="fa-brands fa-linkedin"></i>
+   [Link to LinkedIn](https://www.linkedin.com/in/angel-wei-21952b16a/)
 </div>
 
 <!--
