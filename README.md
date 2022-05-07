@@ -1,6 +1,5 @@
-### Hi there 👋
-
-### About Me
+### Welcome to my Github! My name is Angel. 👋
+### Full-Stack Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover
 ### Languages and Technologies
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
@@ -22,6 +21,8 @@
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/angelshuwei/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
+
+📫 How to reach me:
 
 <!--
 **AngelShuWei/AngelShuWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
