@@ -26,7 +26,7 @@
 📫 Socials:
 <div>
    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;" />(https://www.linkedin.com/in/angel-wei-21952b16a/)
-   [![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://www.linkedin.com/in/angel-wei-21952b16a/)
+   [![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;" />](https://www.linkedin.com/in/angel-wei-21952b16a/)
 </div>
 
 <!--
