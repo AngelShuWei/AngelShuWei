@@ -1,5 +1,5 @@
-### Welcome to my Github! My name is Angel. 👋
-## Full-Stack Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover
+## Welcome to my Github! My name is Angel. 👋
+### Full-Stack Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover
 ### Languages and Technologies
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
