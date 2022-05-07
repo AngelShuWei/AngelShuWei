@@ -24,10 +24,10 @@
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
 📫 Socials:
-<div>
+
    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;" />(https://www.linkedin.com/in/angel-wei-21952b16a/)
-   [![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;" />](https://www.linkedin.com/in/angel-wei-21952b16a/)
-</div>
+   [![LinkedIn]("https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;")](https://www.linkedin.com/in/angel-wei-21952b16a/)
+
 
 <!--
 **AngelShuWei/AngelShuWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
