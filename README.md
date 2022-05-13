@@ -25,8 +25,8 @@
 
 📫 Socials:
 
-   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;"/>(https://www.linkedin.com/in/angel-wei-21952b16a/)
-   https://angel.co/u/angel-wei-1
+   <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;"/>https://www.linkedin.com/in/angel-wei-21952b16a/
+   <img src="https://seeklogo.com/images/A/angellist-logo-A2F68DBEAE-seeklogo.com.png" style="width:20px;/> https://angel.co/u/angel-wei-1
    
 
 
