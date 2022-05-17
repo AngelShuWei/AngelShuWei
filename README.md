@@ -24,12 +24,9 @@
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
 📫 Socials:
-
-   <img src="https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png" style="width:30px;"/> https://angel.co/u/angel-wei-1
-   
    <div>
      <a href="https://www.linkedin.com/in/angel-wei-21952b16a/" target="_blank" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:20px;" /></a>
-      <a href="https://angel.co/u/angel-wei-1" target="_blank"><img src="https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png" style="width:20px;" /></a>
+      <a href="https://angel.co/u/angel-wei-1" target="_blank"><img src="https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png" style="width:30px;" /></a>
    </div>
 
 <!--
