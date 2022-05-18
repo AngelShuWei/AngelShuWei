@@ -1,6 +1,6 @@
 ## Welcome to my Github! My name is Angel. 👋
 <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif"><img/>
-### <img src="[https://i.kym-cdn.com/photos/images/original/002/359/554/e54.gifFull-Stack Software Engineer](https://i.kym-cdn.com/photos/images/original/002/359/554/e54.gif)"> | Keyboard Enthusiast | Video Game Nerd | Boba Lover <img/>
+### <img src="https://user-images.githubusercontent.com/92352042/169148500-773d924a-9d8d-4c0a-af20-1f79d3aabffb.png"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover <img/>
 ## Languages and Technologies
 <div>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
