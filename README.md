@@ -19,7 +19,7 @@
    <img src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png" style="width:50px;" />
 </div>
 
-### img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">Github Stats</img>
+### <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">Github Stats</img>
 [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/angelshuwei/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
 ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
