@@ -1,4 +1,5 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=FEE7EA&center=true&vCenter=true&lines=Hello...;Welcome+to+my+github!;My+name+is+Angel+%3A)](https://git.io/typing-svg)
+<img src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest?cb=20200816131509" style="width:50px;"/>
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD8D8&center=true&vCenter=true&width=1012&lines=Hello...;Thank+you+for+landing+on+my+github!;My+name+is+Angel+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Enjoy+your+stay.)](https://git.io/typing-svg)
 
 <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif"><img/>
 ### Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover 
