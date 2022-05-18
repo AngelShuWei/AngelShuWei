@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=FEE7EA&vCenter=true&lines=Hello...;Welcome+to+my+github!;My+name+is+Angel+%3A))](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&color=FEE7EA&center=true&vCenter=true&lines=Hello...;Welcome+to+my+github!;My+name+is+Angel+%3A))](https://git.io/typing-svg)
 
 <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif"><img/>
 ### Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover 
