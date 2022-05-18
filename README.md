@@ -2,15 +2,25 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD8D8&center=true&vCenter=true&width=1012&lines=Hello...;Thank+you+for+landing+on+my+github!;My+name+is+Angel+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Enjoy+your+stay.)](https://git.io/typing-svg)
 
-<h2 align="center"> About Me </h2>
+<h2 align="center"> 🌻About Me🌻 </h2>
 
 <div align="center"> 
    
    ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
-<p align="center">
-   Hello my name is Angel and I am a software engineer from sunny socal!
+
+<!-- <p align="center"> -->
    <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:400px;:">
+
+   In my free time I enjoy...
+   
+      * playing video games (Valorant, League of Legends, and Apex Legends) 🎮
+      * watching anime or korean dramas 📺
+      * building keyboards 🎹
+      * drinking boba 🍵
+      * walking my akita puppy 🐕
+   
+<!-- </p> -->
 
 <!-- <h3 align="center"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover  -->
       
