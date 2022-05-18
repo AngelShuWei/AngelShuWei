@@ -7,11 +7,11 @@
 <div align="center"> 
    
    ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
+</div>
 
-
-<!-- <p align="center"> -->
-   <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:400px;:">
-
+<p>
+   <img align="left" src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:350px"/> 
+   
    In my free time I enjoy...
    
       * playing video games (Valorant, League of Legends, and Apex Legends) 🎮
@@ -19,12 +19,8 @@
       * building keyboards 🎹
       * drinking boba 🍵
       * walking my akita puppy 🐕
-   
-<!-- </p> -->
+</p>
 
-<!-- <h3 align="center"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover  -->
-      
-      
 <h2 align="center"> Languages and Technologies </h2>
 <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
