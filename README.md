@@ -8,9 +8,11 @@
    
    ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
 
-<p align="center"><img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:500px;:">
+<p align="center">
+   Hello my name is Angel and I am a software engineer from sunny socal!
+   <img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:400px;:">
 
-<h3 align="center"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover 
+<!-- <h3 align="center"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover  -->
       
       
 <h2 align="center"> Languages and Technologies </h2>
