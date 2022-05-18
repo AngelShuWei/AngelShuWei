@@ -1,12 +1,20 @@
-<img src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest?cb=20200816131509" style="width:50px;"/>
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD8D8&center=true&vCenter=true&width=1012&lines=Hello...;Thank+you+for+landing+on+my+github!;My+name+is+Angel+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Enjoy+your+stay.)](https://git.io/typing-svg)
+<p align="center"><img src="https://static.wikia.nocookie.net/kirby-live-radio/images/2/24/Parasol_Kirby.gif/revision/latest?cb=20200816131509" style="width:150px;"></p>
 
-<img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif"><img/>
-### Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover 
-![image](https://user-images.githubusercontent.com/92352042/169148585-338448b0-d900-459b-92ee-82be371720ce.png)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=FFD8D8&center=true&vCenter=true&width=1012&lines=Hello...;Thank+you+for+landing+on+my+github!;My+name+is+Angel+%E0%B8%85%5E%E2%80%A2%EF%BB%8C%E2%80%A2%5E%E0%B8%85;Enjoy+your+stay.)](https://git.io/typing-svg)
 
-## Languages and Technologies
-<div>
+<h2 align="center"> About Me </h2>
+
+<div align="center"> 
+   
+   ![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
+
+<p align="center"><img src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:500px;:">
+
+<h3 align="center"> Software Engineer | Keyboard Enthusiast | Video Game Nerd | Boba Lover 
+      
+      
+<h2 align="center"> Languages and Technologies </h2>
+<div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
    <img src="https://svgshare.com/i/931.svg" style="width:50px;" />
    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="width:50px;" />
@@ -23,16 +31,20 @@
    <img src="https://seeklogo.com/images/A/aws-s3-simple-storage-service-logo-B280D33C1B-seeklogo.com.png" style="width:50px;" />
 </div>
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">Github Stats</img>
-[![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/angelshuwei/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=AngelShuWei&color=ffd1dc)
+<h2 align="center"><img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif">Stats</h2>
 
-## 📫 Socials:
-   <div>
-     <a href="https://www.linkedin.com/in/angel-wei-21952b16a/" target="_blank" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" style="width:30px;" /></a>
-      <a href="https://angel.co/u/angel-wei-1" target="_blank"><img src="https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png" style="width:30px;" /></a>
-   </div>
+<div align="center"> 
+   
+   [![Angel's GitHub stats](https://github-readme-stats.vercel.app/api?username=AngelShuWei&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/angelshuwei/github-readme-stats)
+
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AngelShuWei&layout=compact&theme=calm&text_color=d7e3fc&title_color=a69ecd)](https://github.com/AngelShuWei/github-readme-stats)
+</div>
+
+<h2 align="center">Socials</h2>
+<div align="center">
+   <a href="https://www.linkedin.com/in/angel-wei-21952b16a/" target="_blank" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png"            style="width:30px;" /></a>
+   <a href="https://angel.co/u/angel-wei-1" target="_blank"><img src="https://www.svgimages.com/svg-image/s7/angellist-logo-256x256.png" style="width:30px;" /></a>
+</div>
 
 <!--
 **AngelShuWei/AngelShuWei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
