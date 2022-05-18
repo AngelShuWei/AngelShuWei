@@ -14,7 +14,7 @@
    
    In my free time I enjoy...
    
-      * playing video games (Valorant, League of Legends, and Apex Legends) 🎮
+      * playing video games (Valorant, League of Legends, Apex Legends) 🎮
       * watching anime or korean dramas 📺
       * building keyboards 🎹
       * drinking boba 🍵
