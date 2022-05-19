@@ -10,7 +10,7 @@
 </div>
 
 <p>
-   <img align="left" src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:350px"/> 
+   <img align="left" src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:10px"/> 
    
    In my free time I enjoy...
    
