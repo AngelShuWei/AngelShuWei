@@ -10,7 +10,8 @@
 </div>
 
 <p>
-   <img src="https://c.tenor.com/kmHEH_VM-y4AAAAC/spy-x-family-spy-family.gif" width:"50px" height:"30px" /> 
+   <img align="left" src="https://live.staticflickr.com/65535/52094508374_1b9f1f8fe1_k.jpg" style="width:400px" /> 
+   <img align="right" src="https://c.tenor.com/V7_Qmj3CqhkAAAAd/anya-anya-forger.gif" width="400" /> 
    
    In my free time I enjoy...
    
@@ -19,6 +20,7 @@
       * building keyboards 🎹
       * drinking boba 🍵
       * walking my akita puppy 🐕
+
 </p>
 
 <h2 align="center"> Languages and Technologies </h2>
