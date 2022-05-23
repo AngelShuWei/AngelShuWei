@@ -10,7 +10,7 @@
 </div>
 
 <p>
-   <img align="left" src="https://c.tenor.com/Q9Vvb5f1S1YAAAAC/anya-forger-spy-x-family.gif" style="width:10px"/> 
+   <img src="https://c.tenor.com/kmHEH_VM-y4AAAAC/spy-x-family-spy-family.gif" width:"50px" height:"30px" /> 
    
    In my free time I enjoy...
    
@@ -23,7 +23,7 @@
 
 <h2 align="center"> Languages and Technologies </h2>
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="width:50px" />
    <img src="https://svgshare.com/i/931.svg" style="width:50px;" />
    <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" style="width:50px;" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" style="width:50px;" />
