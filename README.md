@@ -19,7 +19,7 @@
       * watching anime or korean dramas 📺
       * building keyboards 🎹
       * drinking boba 🍵
-      * walking my akita puppy! 🐕
+      * walking my akita puppy 🐕
 
 </p>
 
